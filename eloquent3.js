@@ -1,2 +1,5 @@
+//first exercise in chapter 3 of eloquent
 'use strict'
-calculateMin= (x,y) =>	(x<y) ? x: y;
+min= (x,y) =>	(x<y) ? x: y;
+
+
